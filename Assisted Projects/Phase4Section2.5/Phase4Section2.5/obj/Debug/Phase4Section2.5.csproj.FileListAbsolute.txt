@@ -1,0 +1,6 @@
+D:\Training\Assisted and Practice_Project_Phase_4\Phase4Section2.5\Phase4Section2.5\bin\Debug\Phase4Section2.5.dll
+D:\Training\Assisted and Practice_Project_Phase_4\Phase4Section2.5\Phase4Section2.5\bin\Debug\Phase4Section2.5.pdb
+D:\Training\Assisted and Practice_Project_Phase_4\Phase4Section2.5\Phase4Section2.5\obj\Debug\Phase4Section2.5.csproj.AssemblyReference.cache
+D:\Training\Assisted and Practice_Project_Phase_4\Phase4Section2.5\Phase4Section2.5\obj\Debug\Phase4Section2.5.csproj.CoreCompileInputs.cache
+D:\Training\Assisted and Practice_Project_Phase_4\Phase4Section2.5\Phase4Section2.5\obj\Debug\Phase4Section2.5.dll
+D:\Training\Assisted and Practice_Project_Phase_4\Phase4Section2.5\Phase4Section2.5\obj\Debug\Phase4Section2.5.pdb
